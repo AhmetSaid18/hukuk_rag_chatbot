@@ -6,7 +6,6 @@ Bu proje, hukuk belgelerinizle chat yapabilmenizi sağlayan bir **AI destekli ch
 
 ✅ Hukuk belgelerinden veri çekerek RAG (Retrieval-Augmented Generation) mimarisiyle çalışır  
 ✅ **FastAPI** altyapısı kullanılmıştır, API tabanlı olarak çalışır  
-✅ **MongoDB** ve **Elasticsearch** entegrasyonu vardır  
 ✅ **.env** dosyasında **OpenAI API Key** tanımlanması gerekir  
 ✅ Türkçe destekli sohbet
 
